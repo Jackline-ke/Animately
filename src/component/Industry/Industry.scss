@@ -1,0 +1,35 @@
+.industry{
+    padding: 64px;
+
+    .container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        .title{
+            font-size: 18px;
+            letter-spacing: 0.5ch;
+            font-weight: 100;
+            color: #e0a2e0;
+
+        }
+        .company{
+            padding: 48px;
+            display: flex;
+            gap: 120px;
+
+            .figma{
+                display: flex;
+                gap: 10px;
+                justify-content: center;
+                align-items: center;
+                color: #69576b;
+
+                p{
+                    font-size: 28px;
+                }
+
+            }
+        }
+    }
+}
