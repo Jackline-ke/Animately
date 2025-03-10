@@ -41,6 +41,8 @@
                         padding: 10px 50px 10px 50px;
                         cursor: pointer;
                         font-weight: 600;
+                        display: inline-block; 
+                        width: fit-content;
                     }
                     .learnMore{
                         border-radius: 5px;
@@ -48,6 +50,8 @@
                         border: 1px solid #EDE9ED;
                         cursor: pointer;
                         font-weight: 600;
+                        display: inline-block; 
+                        width: fit-content;
                     }
                 }
             }

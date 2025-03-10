@@ -4,6 +4,7 @@ import Navbar from '../../component/Navbar/Navbar'
 import Hero from '../../component/Hero/Hero'
 import Course from '../../component/Course/Course'
 import Industry from '../../component/Industry/Industry'
+import Pricing from '../../component/Pricing/Pricing'
 
 function Home() {
   return (
@@ -12,6 +13,7 @@ function Home() {
       <Hero/>
       <Course/>
       <Industry/>
+      <Pricing/>
     </div>
   )
 }
