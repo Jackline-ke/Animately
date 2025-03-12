@@ -7,6 +7,7 @@ import Industry from '../../component/Industry/Industry'
 import Pricing from '../../component/Pricing/Pricing'
 import Sign from '../../component/Sign/Sign'
 import Rates from '../../component/Rates/Rates'
+import Testimony from '../../component/Testimony/Testimony'
 
 function Home() {
   return (
@@ -18,6 +19,7 @@ function Home() {
       <Pricing/>
       <Rates/>
       <Sign/>
+      <Testimony/>
     </div>
   )
 }

@@ -8,7 +8,7 @@ function Sign() {
         <div className='container'>
             <div className='left'>
                 <div className='description'>
-                    <h4>Learn at your<br/> preferd pace</h4>
+                    <h4>Learn at your<br/> prefered pace</h4>
                     <p className='text'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                     <div className='point'>
                         <div className='check'>
@@ -35,7 +35,7 @@ function Sign() {
             </div>
             <div className='right'>
                 <div className='image'>
-                    <img src='https://images.unsplash.com/photo-1618477388954-7852f32655ec?q=80&w=1364&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt=''/>
+                    <img src='https://images.unsplash.com/photo-1645620766046-b129a9c5f658?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE3fHx8ZW58MHx8fHx8' alt=''/>
                 </div>
             </div>
       </div>
