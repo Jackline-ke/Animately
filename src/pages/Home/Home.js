@@ -8,6 +8,7 @@ import Pricing from '../../component/Pricing/Pricing'
 import Sign from '../../component/Sign/Sign'
 import Rates from '../../component/Rates/Rates'
 import Testimony from '../../component/Testimony/Testimony'
+import Start from '../../component/Start/Start'
 
 function Home() {
   return (
@@ -20,6 +21,7 @@ function Home() {
       <Rates/>
       <Sign/>
       <Testimony/>
+      <Start/>
     </div>
   )
 }
